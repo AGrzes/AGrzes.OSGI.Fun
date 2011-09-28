@@ -1,0 +1,6 @@
+#Mon Sep 19 09:16:23 CEST 2011
+eclipse.preferences.version=1
+pluginProject.extensions=false
+resolve.requirebundle=false
+manifest.exportWizard=com.ibm.etools.aries.bundle.export
+manifest.launchShortcuts=org.eclipse.wst.server.launchShortcut,org.eclipse.wst.server.launchShortcut

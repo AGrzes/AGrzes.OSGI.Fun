@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blueprint xmlns="http://www.osgi.org/xmlns/blueprint/v1.0.0">
+	<bean id="OsgiService" class="agrzes.test.osgi.impl.OsgiServiceImpl" />
+	<service id="Osgi" ref="OsgiService"
+		interface="agrzes.test.osgi.OsgiService">
+		<service-properties>
+		</service-properties>
+	</service>
+</blueprint>
